@@ -11,7 +11,7 @@ If this code was helpful to you in your research, please cite:
   journal = {Neurocomputing},
   year = {2023},
   issn = {0925-2312},
-  do i = {https://doi.org/10.1016/j.neucom.2023.01.059},
+  doi = {https://doi.org/10.1016/j.neucom.2023.01.059},
   url = {https://www.sciencedirect.com/science/article/pii/S0925231223000681},
   author = {Giovanna Castellano and Eugenio Cotardo and Corrado Mencar and Gennaro Vessio},
 }
